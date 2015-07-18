@@ -1,5 +1,5 @@
 %% new genSchedule generator
-
+ 
 %% Default variables
 clear all; clc;
 rng(927); % fix random seed
